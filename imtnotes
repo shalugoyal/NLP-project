@@ -1,0 +1,17 @@
+install all requirement library
+conda activate venu
+
+for 
+streamlit run app.py
+
+
+These prompts worked well for me:
+
+1) Keypoints in my Resume
+Extract technical skills, soft skills, education details, and experience/project information directly from the resume. Only include information explicitly stated in the resume for each category.
+
+2) Match with Job Description
+Given a resume and a job description, generate a table illustrating the match. Use cues to represent high, medium, and low match areas, highlighting strengths and weaknesses.
+
+3) Keywords Missing in my Resume based on Job Description
+Analyze a resume and job description. Identify keywords and skills from the job description absent in the resume. Prioritize based on frequency and relevance to the job. Provide suggestions for integrating these keywords into the resume, emphasizing achievements and quantifiable results.
